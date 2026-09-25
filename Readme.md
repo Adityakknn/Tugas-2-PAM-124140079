@@ -32,7 +32,7 @@ Aplikasi **News Feed Simulator** dibuat memakai **Kotlin Multiplatform** dengan 
 1. **Clone repository ini**
    ```bash
    git clone <link-repository-ini>
-   cd Tugas2PAM_124140073
+   cd TUGAS2PAM124140079
    ```
 
 2. **Buka project di Android Studio**
